@@ -7,7 +7,7 @@ Our project "Alphabet in Augmented Reality" is an innovative and interactive way
 -> Download the app, Scan the marker and experience 3D visualization of Alphabets. 
 
 ## 🔗 APP Link
-[👉  App Link](https://drive.google.com/file/d/1olk5TQIWp9d5Vm7fHhKiAC2QwsZYCfFR/view?usp=share_link)
+[👉  App Link](https://drive.google.com/file/d/1Ji_tK5e4OlHGjTaSqJlQ-H35Pd6G8B-x/view?usp=share_link)
 
 ## App marker
 <img src="apple.jpeg" width="324" height="324">    <img src="clock.jpeg" width="324" height="324">
